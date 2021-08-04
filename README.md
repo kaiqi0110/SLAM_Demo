@@ -1,2 +1,1 @@
-# Code snippet
-Record part of the slam code snippet
+See the document for more details.
